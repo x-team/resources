@@ -2,9 +2,9 @@
 
 # Table of contents:
 
-- [Tutorials](https://github.com/albertogrande/resources/blob/master/react-resources.md#tutorials)
-- [Newsletters](https://github.com/albertogrande/resources/blob/master/react-resources.md#newsletters)
-- [Conferences](https://github.com/albertogrande/resources/blob/master/react-resources.md#conferences)
+- [Tutorials](https://github.com/x-team/resources/blob/master/react-resources.md#tutorials)
+- [Newsletters](https://github.com/x-team/resources/blob/master/react-resources.md#newsletters)
+- [Conferences](https://github.com/x-team/resources/blob/master/react-resources.md#conferences)
 - Podcasts
 - Books
 
