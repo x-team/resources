@@ -5,7 +5,7 @@
 - [Tutorials](https://github.com/x-team/resources/blob/master/react-resources.md#tutorials)
 - [Newsletters](https://github.com/x-team/resources/blob/master/react-resources.md#newsletters)
 - [Conferences](https://github.com/x-team/resources/blob/master/react-resources.md#conferences)
-- Podcasts
+- [Podcasts](https://github.com/x-team/resources/blob/master/react-resources.md#podcasts)
 - Books
 
 ## Tutorials
@@ -80,16 +80,16 @@
 
 - [React Native Radio](https://devchat.tv/react-native-radio)
 
-React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native.
+  React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications    with JavaScript and React done by developers regularly using React Native.
 
 - [React 30](https://react30.com/)
 
-A @reactjs podcast in 30 minutes hosted by @ReactTraining
+  A @reactjs podcast in 30 minutes hosted by @ReactTraining
 
 - [5 minutes of React podcast](https://5minreact.audio/)
 
-Podcast about React hot topics and JavaScript ecosystem.
+  Podcast about React hot topics and JavaScript ecosystem.
 
 - [Reactbits](https://player.fm/series/reactbits)
 
-A weekly podcast keeping you up to date on the latest news and libraries in the React ecosystem.
+  A weekly podcast keeping you up to date on the latest news and libraries in the React ecosystem.
