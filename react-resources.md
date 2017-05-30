@@ -6,7 +6,7 @@
 - [Newsletters](https://github.com/x-team/resources/blob/master/react-resources.md#newsletters)
 - [Conferences](https://github.com/x-team/resources/blob/master/react-resources.md#conferences)
 - [Podcasts](https://github.com/x-team/resources/blob/master/react-resources.md#podcasts)
-- Books
+- [Books](https://github.com/x-team/resources/blob/master/react-resources.md#books)
 
 ## Tutorials
 
@@ -93,3 +93,33 @@
 - [Reactbits](https://player.fm/series/reactbits)
 
   A weekly podcast keeping you up to date on the latest news and libraries in the React ecosystem.
+  
+## Books
+
+- [React: Up & Running: Building Web Applications](http://amzn.to/2kVo9d5)
+
+  With this practical guide, Facebook web developer Stoyan Stefanov teaches you how to build components--React's basic building blocks--and organize them into maintainable, large-scale apps. If you're familiar with basic JavaScript syntax, you're ready to get started.
+
+- [Learning React](http://amzn.to/2lSCJPN)
+
+  A hands-on guide to building maintainable, high-performing web application user interfaces using the React JavaScript library
+
+- [ReactJS: Ultimate Beginners Guide](http://amzn.to/2kAeh4T)
+
+  The book guides you on how to carry out unit testing in React.js. However, the guide covers how to do this using both React.js and Redux. 
+
+- [Pro React](http://amzn.to/2llKroP)
+
+  This book explores the React library in depth, as well as detailing additional tools and libraries in the React ecosystem, enabling you to create complete, complex applications.
+
+- [Mastering React](http://amzn.to/2krI6cx)
+
+  This book is ideal for web developers possessing strong core JavaScript fundamentals who are also interested in learning what React brings to the architectural table. Previous experience with React or other web frameworks isn't required, but may help.
+
+- [React.js Essentials](http://amzn.to/2kM4cT8)
+
+  A fast-paced guide to designing and building scalable and maintainable web apps with React.js
+
+- [ReactJS Blueprints](http://amzn.to/2kM4cT8)
+
+  Packed with real-world code, this book starts by covering the idea behind ReactJS and the key concepts you must familiarize yourself with. 
