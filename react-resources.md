@@ -1,4 +1,4 @@
-# Best React Resources · Curated by X-Teamers
+# React Resources · Curated by X-Teamers
 
 # Table of contents:
 
