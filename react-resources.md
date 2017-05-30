@@ -2,11 +2,21 @@
 
 # Table of contents:
 
+- [Community](https://github.com/x-team/resources/blob/master/react-resources.md#community)
 - [Tutorials](https://github.com/x-team/resources/blob/master/react-resources.md#tutorials)
 - [Newsletters](https://github.com/x-team/resources/blob/master/react-resources.md#newsletters)
 - [Conferences](https://github.com/x-team/resources/blob/master/react-resources.md#conferences)
 - [Podcasts](https://github.com/x-team/resources/blob/master/react-resources.md#podcasts)
 - [Books](https://github.com/x-team/resources/blob/master/react-resources.md#books)
+- [X-Team](https://github.com/x-team/resources/blob/master/react-resources.md#xteam)
+
+## Community
+
+- [React Official Site](https://facebook.github.io/react/)
+- [React GitHub](https://github.com/facebook/react)
+- [React Community GitHub](https://github.com/reactjs)
+- [Reactiflux](https://www.reactiflux.com/)
+- [React Discussion Forum](https://discuss.reactjs.org/)
 
 ## Tutorials
 
@@ -38,8 +48,6 @@
 
   This post will guide you through building a full React app, even with little to no experience in the framework. We're going build a Yelp clone in React
 
-- [X-Team Blog Post: Best React Tutorials](https://x-team.com/blog/best-react-tutorials-curated-by-x-team/)
-
 ## Newsletters
 
 - [React Digest](http://reactdigest.net/)
@@ -56,9 +64,7 @@
 
 - [Fullstack React](http://newsletter.fullstackreact.com/)
 
-  Fullstack React is a weekly newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. Subscribe to read the best articles each week on React, Flux, GraphQL, Relay, and friends.
-  
-- [X-Team Blog Post: Best React Newsletters](https://x-team.com/blog/best-react-newsletters-curated-by-x-team-2/)
+  Fullstack React is a weekly newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. Subscribe to read the best articles each week on React, Flux, GraphQL, Relay, and friends.  
 
 ## Conferences
 
@@ -73,8 +79,6 @@
 - [ReactNext in Tel Aviv, Israel | Fall 2017](http://react-next.com/)
 
 - [Reactive in Bratislava, Slovakia | Fall 2017](https://reactiveconf.com/)
-
-- [X-Team Blog Post: React 2017: Conference Guide](https://x-team.com/blog/react-2017-conference-guide/)
 
 ## Podcasts
 
@@ -123,3 +127,13 @@
 - [ReactJS Blueprints](https://www.goodreads.com/book/show/31569932-reactjs-blueprints)
 
   Packed with real-world code, this book starts by covering the idea behind ReactJS and the key concepts you must familiarize yourself with. 
+  
+## X-Team
+
+- [X-periment: A React, Elm, and WebAssembly Story](https://x-team.com/blog/x-periment-a-react-elm-and-webassembly-story/)
+- [React London 2017 - A Summary](https://x-team.com/blog/react-london-2017-a-summary/)
+- [Java UI Component on React Native](https://x-team.com/blog/java-ui-component-on-react-native/)
+- [Best React Newsletters: Curated by X-Team](https://x-team.com/blog/best-react-newsletters-curated-by-x-team-2/)
+- [Best React Tutorials: Curated By X-Team](https://x-team.com/blog/best-react-tutorials-curated-by-x-team/)
+- [React 2017: Conference Guide](https://x-team.com/blog/react-2017-conference-guide/)
+- [Xplorers: a journey into React](https://x-team.com/blog/xplorers-journey-react/)
