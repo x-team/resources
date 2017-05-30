@@ -7,6 +7,7 @@
 - Conferences
 - Podcasts
 - Books
+- [X-Team](https://github.com/x-team/resources/blob/master/elm-resources.md#x-team)
 
 ## Tutorials
 
@@ -47,3 +48,9 @@
   We found this one quite helpful with developers looking for a full guided experience and in the context of an actual project.  
 
 - [X-Team Blog Post: Best Elm Tutorials](https://x-team.com/blog/best-elm-tutorials-curated-by-x-team/)
+
+## X-Team
+
+- [Making The Most Out Of Up-Skilling: An Elm Case Study — Part I](https://x-team.com/blog/making-the-most-out-of-up-skilling-an-elm-case-study-part1/)
+- [X-periment: A React, Elm, and WebAssembly Story](https://x-team.com/blog/x-periment-a-react-elm-and-webassembly-story/)
+- [Best Elm Tutorials: Curated by X-Team](https://x-team.com/blog/best-elm-tutorials-curated-by-x-team/)
