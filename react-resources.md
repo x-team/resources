@@ -57,6 +57,8 @@
 - [Fullstack React](http://newsletter.fullstackreact.com/)
 
   Fullstack React is a weekly newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. Subscribe to read the best articles each week on React, Flux, GraphQL, Relay, and friends.
+  
+- [X-Team Blog Post: Best React Newsletters](https://x-team.com/blog/best-react-newsletters-curated-by-x-team-2/)
 
 ## Conferences
 
