@@ -96,30 +96,30 @@
   
 ## Books
 
-- [React: Up & Running: Building Web Applications](http://amzn.to/2kVo9d5)
+- [React: Up & Running: Building Web Applications](https://www.goodreads.com/book/show/31129937-react)
 
   With this practical guide, Facebook web developer Stoyan Stefanov teaches you how to build components--React's basic building blocks--and organize them into maintainable, large-scale apps. If you're familiar with basic JavaScript syntax, you're ready to get started.
 
-- [Learning React](http://amzn.to/2lSCJPN)
+- [Learning React](https://www.goodreads.com/book/show/28602726-learning-react)
 
   A hands-on guide to building maintainable, high-performing web application user interfaces using the React JavaScript library
 
-- [ReactJS: Ultimate Beginners Guide](http://amzn.to/2kAeh4T)
+- [ReactJS: Ultimate Beginners Guide](https://www.goodreads.com/book/show/32298599-reactjs)
 
   The book guides you on how to carry out unit testing in React.js. However, the guide covers how to do this using both React.js and Redux. 
 
-- [Pro React](http://amzn.to/2llKroP)
+- [Pro React](https://www.goodreads.com/book/show/27905649-pro-react)
 
   This book explores the React library in depth, as well as detailing additional tools and libraries in the React ecosystem, enabling you to create complete, complex applications.
 
-- [Mastering React](http://amzn.to/2krI6cx)
+- [Mastering React](https://www.goodreads.com/book/show/29391564-mastering-react)
 
   This book is ideal for web developers possessing strong core JavaScript fundamentals who are also interested in learning what React brings to the architectural table. Previous experience with React or other web frameworks isn't required, but may help.
 
-- [React.js Essentials](http://amzn.to/2kM4cT8)
+- [React.js Essentials](https://www.goodreads.com/book/show/26226251-react-js-essentials)
 
   A fast-paced guide to designing and building scalable and maintainable web apps with React.js
 
-- [ReactJS Blueprints](http://amzn.to/2kM4cT8)
+- [ReactJS Blueprints](https://www.goodreads.com/book/show/31569932-reactjs-blueprints)
 
   Packed with real-world code, this book starts by covering the idea behind ReactJS and the key concepts you must familiarize yourself with. 
