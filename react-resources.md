@@ -8,7 +8,7 @@
 - [Conferences](https://github.com/x-team/resources/blob/master/react-resources.md#conferences)
 - [Podcasts](https://github.com/x-team/resources/blob/master/react-resources.md#podcasts)
 - [Books](https://github.com/x-team/resources/blob/master/react-resources.md#books)
-- [X-Team](https://github.com/x-team/resources/blob/master/react-resources.md#xteam)
+- [X-Team](https://github.com/x-team/resources/blob/master/react-resources.md#x-team)
 
 ## Community
 
