@@ -75,3 +75,21 @@
 - [Reactive in Bratislava, Slovakia | Fall 2017](https://reactiveconf.com/)
 
 - [X-Team Blog Post: React 2017: Conference Guide](https://x-team.com/blog/react-2017-conference-guide/)
+
+## Podcasts
+
+- [React Native Radio](https://devchat.tv/react-native-radio)
+
+React Native Radio is a weekly discussion of the tools, techniques, and technologies used to build mobile applications with JavaScript and React done by developers regularly using React Native.
+
+- [React 30](https://react30.com/)
+
+A @reactjs podcast in 30 minutes hosted by @ReactTraining
+
+- [5 minutes of React podcast](https://5minreact.audio/)
+
+Podcast about React hot topics and JavaScript ecosystem.
+
+- [Reactbits](https://player.fm/series/reactbits)
+
+A weekly podcast keeping you up to date on the latest news and libraries in the React ecosystem.
