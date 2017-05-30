@@ -3,10 +3,10 @@
 # Table of contents:
 
 - [Tutorials](https://github.com/x-team/resources/blob/master/elm-resources.md#tutorials)
-- Newsletters
-- Conferences
-- Podcasts
-- Books
+- [Newsletters](https://github.com/x-team/resources/blob/master/elm-resources.md#newsletters)
+- [Conferences](https://github.com/x-team/resources/blob/master/elm-resources.md#conferences)
+- [Podcasts](https://github.com/x-team/resources/blob/master/elm-resources.md#podcasts)
+- [Books](https://github.com/x-team/resources/blob/master/elm-resources.md#books)
 - [X-Team](https://github.com/x-team/resources/blob/master/elm-resources.md#x-team)
 
 ## Tutorials
@@ -48,6 +48,34 @@
   We found this one quite helpful with developers looking for a full guided experience and in the context of an actual project.  
 
 - [X-Team Blog Post: Best Elm Tutorials](https://x-team.com/blog/best-elm-tutorials-curated-by-x-team/)
+
+## Newsletters
+
+- [ELM Weekly](http://www.elmweekly.nl/)
+
+  The wonderful world of the Elm programming language, in your inbox.
+
+## Conferences
+
+- [Elm Conf US](https://www.elm-conf.us/)
+
+  elm-conf is returning to St. Louis on September 28, 2017 for a day of learning, speaking, and connecting with the Elm language community. 
+
+- [Elm Europe 2017](https://elmeurope.org/)
+
+  Elm Europe will be a two-day conference dedicated to Elm, taking place at the EFREI Engineering School in Villejuif on June, 8-9th 2017. The event is organized by the Elm community, for the Elm community, with the willing of sharing knowledge, news about the language, and meeting interesting people.
+  
+## Podcasts
+
+- [Elm Town](https://elmtown.github.io/)
+
+  A podcast about the people in the Elm community.  
+  
+## Books
+
+- [Elm in Action](https://www.manning.com/books/elm-in-action)
+
+  Elm is more than just a cutting-edge programming language, it's a chance to upgrade the way you think about building web applications.  
 
 ## X-Team
 
