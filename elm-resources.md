@@ -1,4 +1,4 @@
-# Best Elm Resources · Curated by X-Teamers
+# Elm Resources · Curated by X-Teamers
 
 # Table of contents:
 
