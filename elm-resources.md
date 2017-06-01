@@ -47,8 +47,6 @@
 
   We found this one quite helpful with developers looking for a full guided experience and in the context of an actual project.  
 
-- [X-Team Blog Post: Best Elm Tutorials](https://x-team.com/blog/best-elm-tutorials-curated-by-x-team/)
-
 ## Newsletters
 
 - [ELM Weekly](http://www.elmweekly.nl/)
