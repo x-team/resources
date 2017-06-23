@@ -64,7 +64,7 @@
 
 - [Fullstack React](http://newsletter.fullstackreact.com/)
 
-  Fullstack React is a weekly newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. Subscribe to read the best articles each week on React, Flux, GraphQL, Relay, and friends.  
+  Fullstack React is a weekly newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. Subscribe to read the best articles each week on React, Flux, GraphQL, Relay, and friends.
 
 ## Conferences
 
@@ -97,7 +97,7 @@
 - [Reactbits](https://player.fm/series/reactbits)
 
   A weekly podcast keeping you up to date on the latest news and libraries in the React ecosystem.
-  
+
 ## Books
 
 - [React: Up & Running: Building Web Applications](https://www.goodreads.com/book/show/31129937-react)
@@ -110,7 +110,7 @@
 
 - [ReactJS: Ultimate Beginners Guide](https://www.goodreads.com/book/show/32298599-reactjs)
 
-  The book guides you on how to carry out unit testing in React.js. However, the guide covers how to do this using both React.js and Redux. 
+  The book guides you on how to carry out unit testing in React.js. However, the guide covers how to do this using both React.js and Redux.
 
 - [Pro React](https://www.goodreads.com/book/show/27905649-pro-react)
 
@@ -126,8 +126,12 @@
 
 - [ReactJS Blueprints](https://www.goodreads.com/book/show/31569932-reactjs-blueprints)
 
-  Packed with real-world code, this book starts by covering the idea behind ReactJS and the key concepts you must familiarize yourself with. 
-  
+  Packed with real-world code, this book starts by covering the idea behind ReactJS and the key concepts you must familiarize yourself with.
+
+- [The Complete Redux Book](https://www.goodreads.com/book/show/34076755-the-complete-redux-book)
+
+  A book for both beginners and expert to understand the purpose for redux and how to leverage it for better state management. Available for free at Leanpub
+
 ## X-Team
 
 - [X-periment: A React, Elm, and WebAssembly Story](https://x-team.com/blog/x-periment-a-react-elm-and-webassembly-story/)
